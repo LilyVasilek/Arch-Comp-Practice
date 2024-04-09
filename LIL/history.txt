@@ -1,0 +1,34 @@
+    1  Apr 09 16:49:54 history
+    2  Apr 09 16:51:37 pwd 
+    3  Apr 09 16:51:43 ls
+    4  Apr 09 16:51:49 ls -a
+    5  Apr 09 16:52:25 cd .ssh
+    6  Apr 09 16:52:30 ls
+    7  Apr 09 16:52:53 cat authorized_keys
+    8  Apr 09 16:54:41 cd -
+    9  Apr 09 16:55:11 mkdir l.dir
+   10  Apr 09 16:55:30 cd l.dir
+   11  Apr 09 16:57:52 exit 
+   12  Apr 09 17:05:30 cd l.dir
+   13  Apr 09 17:05:34 ls
+   14  Apr 09 17:07:51 cd -
+   15  Apr 09 17:08:16 mkdir l.dirr
+   16  Apr 09 17:08:33 cd l.dir
+   17  Apr 09 17:09:28 unzip run_http_server.zip -d /home/l.lagunova/l.dirr
+   18  Apr 09 17:10:04 cd -
+   19  Apr 09 17:10:12 cd l.dirr
+   20  Apr 09 17:10:18 ls
+   21  Apr 09 17:11:00 cat run_http_server.sh
+   22  Apr 09 17:11:49 chmod +x ./run_http_server.sh
+   23  Apr 09 17:12:28 sh run_http_server.sh
+   24  Apr 09 17:15:20 nano run_http_server.sh
+   25  Apr 09 17:16:21 sh run_http_server.sh
+   26  Apr 09 17:20:13 nano run_http_server.sh
+   27  Apr 09 17:20:40 sh run_http_server.sh
+   28  Apr 09 17:36:52 history
+   29  Apr 09 17:37:21 chmod +x ./run_http_server.sh
+   30  Apr 09 17:37:38 sh run_http_server.sh
+   31  Apr 09 17:37:50 cd l.dirr
+   32  Apr 09 17:37:54 sh run_http_server.sh
+   33  Apr 09 17:49:03 ./run_http_server.sh &> l.log
+   34  Apr 09 17:55:27 history > l.history 
